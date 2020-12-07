@@ -29,7 +29,8 @@ If the users input incudes a mean keyword the bot will encourage the user to not
 
 Response to Other Keywords
 If the users input includes "joke" or "tell me a joke" the bot will tell one of these jokes
-```"What is the best time to go to a dentist? Tooth Hurty", "How does NASA organize a party? They planet.", "What did the ocean say to the other ocean? Nothing they just waved"
+```"What is the best time to go to a dentist? Tooth Hurty", "How does NASA organize a party? They planet.", "What did the ocean say to the other ocean? Nothing they 
+just waved"
 ```
 If the users input includes "real" or "are you real" the bot will respond with
 ```
