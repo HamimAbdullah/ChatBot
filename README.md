@@ -36,3 +36,8 @@ If the users input includes "real" or "are you real" the bot will respond with
 ```
 "No I am not real, I am a bot"
 ```
+### Response If No Keyword Is Recognized
+If the users input does not include any of the keywords the bot will respond with
+```
+"Sorry but I can not recognize those words please try to use these keywords: nice, good, great, friendly, cool, suck, trash, hate, bad, mean, joke, or real"
+```
